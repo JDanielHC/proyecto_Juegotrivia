@@ -1,0 +1,86 @@
+MATERIAL DE LA CARRERA: INGENIERÍA EN COMPUTACIÓN (UTH)
+
+FUENTES Y FECHA DE CONSULTA (noviembre de 2026)
+- Perfil profesional: sitio oficial de la UTH, página de Ingeniería en Computación (https://www.uth.hn/nivel-educativo-grado/ingenieria-computacion/).
+- Plan de estudio: imagen oficial "Plan de estudio, Ingeniería en Computación" de la UTH (la del documento Word del equipo), pasada a texto.
+- Feria de proyectos: sitio oficial de la UTH (https://www.uth.hn/feria-de-proyectos-es-presentada-por-ingenieria-en-computacion/).
+- CONATEL: sitio oficial de CONATEL (https://www.conatel.gob.hn/institucion).
+- Firma electrónica: nota de La Prensa del 21 de marzo de 2017 (https://www.laprensa.hn/economia/certifican-al-bch-para-prestar-servicios-de-firma-electronica-EALP1055188).
+- La sección 6 (conceptos por materia) la redactó el equipo con conocimiento general, falta revisarla.
+
+1. PERFIL PROFESIONAL DE UN INGENIERO EN COMPUTACIÓN (UTH)
+
+Campos de trabajo:
+- Desarrollador de sistemas inteligentes.
+- Gerente de informática organizacional.
+- Programador de sistemas.
+- Administrador de base de datos.
+- Administrador de redes.
+- Proveedor de servicios profesionales.
+- Consultor de TIC para empresas.
+
+Habilidades al finalizar la carrera:
+- Diseña y rediseña sistemas cuando los cambios tecnológicos, metodológicos y organizacionales lo requieran.
+- Evalúa la factibilidad de proyectos de informática.
+- Trabaja como parte de un equipo multidisciplinario.
+- Concreta las necesidades de los usuarios potenciales de los productos y servicios.
+- Aprovecha al máximo los recursos humanos y tecnológicos que tenga a su disposición.
+
+Destrezas:
+- Planifica, analiza y desarrolla sistemas.
+- Modela, simula, implementa y optimiza sistemas complejos.
+- Gerencia organizaciones empresariales en el ámbito tecnológico.
+- Desarrolla estrategias basadas en las tecnologías de información y comunicación (TIC) que permitan a las empresas lograr ventajas competitivas.
+
+Competencias:
+- Capacidad de generar nuevas ideas para organizar, planificar y a la vez resolver problemas mediante la toma de decisiones basadas en la información.
+- Desarrollará software de sistemas paralelos, concurrentes y distribuidos con un alto grado de dificultad técnica.
+- Aplicará formalismos matemáticos y metodologías de ingeniería de software en la implementación de sistemas autoadaptables, flexibles, escalables y de alto desempeño.
+
+2. PLAN DE ESTUDIO (12 períodos; UV = unidades valorativas)
+
+Período I: Matemática I (4 UV); Administración I (4 UV); Introducción a la Ingeniería Computacional (4 UV); Español I (3 UV); Análisis y Diseño de Algoritmos (4 UV).
+Período II: Geometría y Trigonometría (4 UV); Contabilidad General (4 UV); Historia de Honduras (3 UV); Sociología (3 UV); Programación Estructurada (4 UV).
+Período III: Pre Cálculo (4 UV); Inglés I (3 UV); Estructura de Datos (4 UV); Filosofía (3 UV); Programación Orientada a Objetos (4 UV).
+Período IV: Cálculo I (4 UV); Inglés II (3 UV); Sistemas Operativos I (4 UV); Base de Datos I (4 UV); Programación Avanzada I (4 UV).
+Período V: Álgebra Lineal (4 UV); Cálculo II (4 UV); Sistemas Operativos II (4 UV); Base de Datos II (4 UV); Programación Avanzada II (4 UV, vinculación).
+Período VI: Física I (4 UV); Ecuaciones Diferenciales (4 UV); Redes I (4 UV); Programación Web I (4 UV); Ingeniería de Software I (4 UV).
+Período VII: Física II (4 UV); Reparación y Mantenimiento de Hardware y Software (4 UV); Redes II (4 UV); Programación Web II (4 UV, vinculación); Ingeniería de Software II (4 UV, investigación; al terminarla se cursa la Pasantía Profesional Supervisada I de 80 horas).
+Período VIII: Estadística I (4 UV); Arquitectura de Computadoras (4 UV); Redes III (4 UV); Computación en la Nube (4 UV); Programación Móvil I (4 UV).
+Período IX: Programación Embebida (4 UV); Electiva I (3 UV); Redes IV (4 UV, vinculación; al terminarla se cursa la Pasantía Profesional Supervisada II de 80 horas); Computación Gráfica y Visual (4 UV); Programación Móvil II (4 UV, vinculación).
+Período X: Inteligencia Artificial (4 UV, investigación); Electiva II (3 UV); Internet de las Cosas, IoT (4 UV, investigación); Automatización y Robótica, industria (4 UV); Programación para Sistemas Abiertos I (4 UV).
+Período XI: Organización de Centros de Cómputo (4 UV); Telefonía y Seguridad IP (4 UV, investigación); Auditoría y Seguridad de Sistemas (4 UV); Electiva III, Inteligencia de Negocios (4 UV); Programación para Sistemas Abiertos II (4 UV, vinculación).
+Período XII: Práctica Profesional Supervisada. Para cursarla hay que haber cursado las dos pasantías y estar llevando las dos últimas asignaturas, o haber cursado todo el plan de estudio.
+
+Componentes del plan:
+- Investigación: Ingeniería de Software II, Inteligencia Artificial, Internet de las Cosas y Telefonía y Seguridad IP.
+- Vinculación: Programación Avanzada II, Programación Web II, Redes IV, Programación Móvil II y Programación para Sistemas Abiertos II.
+
+3. DISTRIBUCIÓN DEL PLAN POR ÁREAS
+- Desarrolladores: 45%.
+- Habilidades exactas: 24%.
+- Redes y telecomunicaciones: 11%.
+- Habilidades humanas: 11%.
+- Electrónica: 5%.
+- Idiomas: 4%.
+
+4. LA CARRERA EN LA UTH
+- En 2018, el campus central de la UTH hizo una feria de proyectos de Ingeniería en Computación con 49 proyectos de innovación, en áreas como inteligencia artificial, realidad virtual y aumentada y automatización.
+
+5. CONTEXTO DE HONDURAS (TIC)
+- CONATEL es la Comisión Nacional de Telecomunicaciones de Honduras, el ente técnico del Estado que regula el sector de telecomunicaciones. Entre sus funciones están regular los servicios de telecomunicaciones, administrar el espectro radioeléctrico, impulsar el desarrollo de las TIC, fomentar la competencia y proteger los derechos de los usuarios. Tiene una meta de reducir la brecha digital en un 38% para 2026.
+- La ley de firma electrónica de Honduras fue aprobada por el Congreso Nacional mediante el Decreto 149-2013, del 30 de julio de 2013.
+- En 2017, el Instituto de la Propiedad entregó al Banco Central de Honduras (BCH) el certificado que lo acredita como Prestadora de Servicios de Certificación de Firma Electrónica, la primera institución del país con esa autorización.
+- Una prestadora de servicios de certificación verifica la identidad del titular de la firma, implementa sistemas de seguridad para emitir firmas electrónicas, conserva los archivos de certificados y protege la confidencialidad de la información de los suscriptores.
+
+6. CONCEPTOS POR MATERIA (redactado por el equipo, revisar)
+- Análisis y Diseño de Algoritmos: la búsqueda binaria funciona sobre una lista ordenada, compara con el elemento del medio y descarta la mitad en cada paso; su complejidad es O(log n). La búsqueda secuencial es O(n).
+- Estructura de Datos: una pila (stack) funciona como "el último en entrar es el primero en salir" (LIFO). Una cola (queue) funciona como "el primero en entrar es el primero en salir" (FIFO). Un árbol binario guarda datos con hasta dos hijos por nodo.
+- Programación Orientada a Objetos: los cuatro pilares son abstracción, encapsulamiento, herencia y polimorfismo. Una clase es el molde y un objeto es una instancia de esa clase.
+- Sistemas Operativos: un proceso es un programa en ejecución con su propia memoria asignada. Un hilo es una unidad de ejecución dentro de un proceso. En Linux, systemd administra los servicios y "systemctl enable" hace que un servicio arranque con el sistema.
+- Base de Datos: una clave primaria identifica de forma única cada fila de una tabla. Una clave foránea relaciona una tabla con otra. JOIN combina filas de dos tablas según una columna relacionada. UNION junta los resultados de dos consultas. WHERE filtra filas y GROUP BY las agrupa.
+- Redes: una dirección IPv4 tiene 32 bits y una IPv6 tiene 128 bits. Una dirección MAC tiene 48 bits. TCP garantiza la entrega ordenada y confiable de los datos; UDP es más rápido pero no garantiza la entrega. HTTP usa el puerto 80 y HTTPS el 443. En el modelo OSI, la capa de red (capa 3) se encarga del direccionamiento IP y del enrutamiento.
+- Ingeniería de Software: el modelo en cascada hace las etapas una después de otra (requisitos, diseño, implementación, pruebas, mantenimiento). Los modelos ágiles trabajan en ciclos cortos. Git es un sistema de control de versiones: "git commit" guarda los cambios en el historial local, "git push" los sube al repositorio remoto y "git pull" trae los cambios del remoto.
+- Programación Web: el frontend es lo que ve el usuario en el navegador y el backend es la lógica del servidor y el acceso a la base de datos. Una API permite que dos programas se comuniquen.
+- Inteligencia Artificial: un modelo de lenguaje genera texto a partir de las instrucciones que recibe; puede equivocarse, por eso sus respuestas se revisan.
+- Auditoría y Seguridad de Sistemas: la confidencialidad, la integridad y la disponibilidad son los tres principios básicos de la seguridad de la información.
